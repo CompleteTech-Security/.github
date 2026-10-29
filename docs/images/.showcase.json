@@ -1,0 +1,70 @@
+{
+ "config_sha256": "07d711d1ba57ee61e2d71a6b4ca6c4d6a62862781fe940a194bc3a08519a10eb",
+ "fingerprint": "ff73cde0e50f6b7b525fda1386c558f30d7fb6ff5ec214ff37710c3deb42efc3",
+ "inputs": {
+  "description": "Organization profile and default community health files for CompleteTech Security.",
+  "icon_sha256": null,
+  "language": null,
+  "license": null,
+  "override_sha256": null,
+  "owner": "CompleteTech-Security",
+  "repo": ".github",
+  "topics": [
+   "completetech",
+   "github-profile"
+  ],
+  "type": "github-profile",
+  "visibility": "public"
+ },
+ "outputs": {
+  "banner.png": {
+   "bytes": 245644,
+   "chips": [
+    {
+     "box": [
+      520,
+      241.6,
+      128.2,
+      38
+     ],
+     "kind": "key",
+     "source": "cli",
+     "text": "Org profile"
+    },
+    {
+     "box": [
+      660.2,
+      241.6,
+      133.5,
+      38
+     ],
+     "kind": "attr",
+     "source": "cli",
+     "text": "Health files"
+    },
+    {
+     "box": [
+      805.7,
+      241.6,
+      137.6,
+      38
+     ],
+     "kind": "attr",
+     "source": "cli",
+     "text": "Issue forms"
+    }
+   ],
+   "icon_source": "org-mark",
+   "px": [
+    2560,
+    720
+   ],
+   "repository_id": 1438957691,
+   "scale": 2,
+   "sha256": "1745cead359ff7d47b6b396e6dbd13124d3527d88dee6a240357f9d5c9255036"
+  }
+ },
+ "schema": 1,
+ "skill_version": "1.0.0",
+ "standard": "ct-std-v1"
+}
