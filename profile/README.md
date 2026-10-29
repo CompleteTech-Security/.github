@@ -24,6 +24,14 @@ We build small, single-purpose checkers that compare evidence you supply (versio
 
 Good places to start: [php2shell-check](https://github.com/CompleteTech-Security/php2shell-check), [node2shell-check](https://github.com/CompleteTech-Security/node2shell-check), [scan-results-bridge](https://github.com/CompleteTech-Security/scan-results-bridge).
 
+## Featured
+
+<p>
+  <a href="https://github.com/CompleteTech-Security/php2shell-check"><img src="https://raw.githubusercontent.com/CompleteTech-Security/.github/main/profile/assets/cards/php2shell-check.svg" alt="php2shell-check" width="400"></a>
+  <a href="https://github.com/CompleteTech-Security/node2shell-check"><img src="https://raw.githubusercontent.com/CompleteTech-Security/.github/main/profile/assets/cards/node2shell-check.svg" alt="node2shell-check" width="400"></a>
+  <a href="https://github.com/CompleteTech-Security/scan-results-bridge"><img src="https://raw.githubusercontent.com/CompleteTech-Security/.github/main/profile/assets/cards/scan-results-bridge.svg" alt="scan-results-bridge" width="400"></a>
+</p>
+
 ## All projects
 
 <details>

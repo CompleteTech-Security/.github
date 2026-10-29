@@ -1,6 +1,6 @@
 name: Bug report
 description: Something does not work the way the README says it should.
-labels: ["bug"]
+labels: ["type:bug", "status:needs-triage"]
 body:
   - type: markdown
     attributes:

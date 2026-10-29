@@ -40,6 +40,8 @@ Organization profile and default community health files for CompleteTech Securit
 | `CODE_OF_CONDUCT.md` | Community standards |
 | `.github/ISSUE_TEMPLATE/` | Default bug and feature issue forms |
 | `.github/PULL_REQUEST_TEMPLATE.md` | Default pull request template |
+| `labels.yml` | The estate label set applied to every repository |
+| `LICENSE` | MIT license for the templates |
 
 ## License
 
