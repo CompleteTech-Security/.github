@@ -6,7 +6,7 @@ Please do not open a public issue for a security problem.
 
 Report it privately by either:
 
-- using GitHub's "Report a vulnerability" button on the affected repository (private vulnerability reporting), if it is enabled; or
+- using GitHub's "Report a vulnerability" button on the affected repository (private vulnerability reporting); or
 - emailing Timothy.Gregg@complete.tech with the repository, a description of the issue, steps to reproduce, and any suggested fix.
 
 Please do not include real credentials or personal data in your report.
@@ -17,4 +17,4 @@ This is a small team and most projects are early-stage, so we cannot promise fix
 
 ## Scope
 
-This policy covers public repositories in the CompleteTech-Security organization. Issues in upstream code of any forked project should also be reported upstream.
+This policy covers public repositories in the CompleteTech-Security organization. Issues in upstream code of a third-party dependency should also be reported upstream.
