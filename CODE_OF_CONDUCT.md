@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Complete Tech LLC wants its public repositories to be places where people can collaborate respectfully.
+CompleteTech LLC wants its public repositories to be places where people can collaborate respectfully.
 
 ## Expected behavior
 

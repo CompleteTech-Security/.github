@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in Complete Tech LLC projects. These defaults apply to public repositories in the organization unless a repository has its own `CONTRIBUTING.md`.
+Thanks for your interest in CompleteTech LLC projects. These defaults apply to public repositories in the organization unless a repository has its own `CONTRIBUTING.md`.
 
 ## Before you start
 
